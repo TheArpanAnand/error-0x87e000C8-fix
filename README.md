@@ -30,9 +30,9 @@ This shockingly simple fix solved everything for me — without needing advanced
 
 ## 📸 Screenshots:
 See [`/images`](./images/) folder for step-by-step visuals:
-- `step1-settings.png` – Install location visible
-- `step2-sharing.png` – Sharing tab settings
-- `step3-success.png` – Game downloaded successfully
+![Step 1 – Storage Settings](./images/step1-settings.png)
+![Step 2 – Sharing Settings](./images/step2-sharing.png)
+![Step 3 – Success Screen](./images/step3-success.png)
 
 ---
 
