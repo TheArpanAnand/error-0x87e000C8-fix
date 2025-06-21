@@ -1,4 +1,4 @@
-# error-0x87e000C8-fix
+# error-0x87e000C8 (Using external drive to download apps/games from MS Store)
 
 The drive won’t appear as a valid install location under Storage settings or inside the Store/Xbox App.
 
