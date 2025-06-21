@@ -63,12 +63,6 @@ If anyone at Microsoft (or anywhere cool) is reading this — I’d *love* an in
 
 ---
 
-## 🧠 Why This Works (Probably):
-The Microsoft Store and Xbox App use internal permission checks that reject drives without proper network/share access.  
-By granting shared access via SMB (even locally), the Store likely whitelists the drive as installable.
-
----
-
 ## 🪪 License
 MIT License – see [`LICENSE`](./LICENSE) for details.  
 Use it freely, modify it, share it — just don’t sue me 😅  
