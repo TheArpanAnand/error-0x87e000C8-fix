@@ -36,6 +36,27 @@ See [`/images`](images) folder for proof and configurations:
 
 ---
 
+## 🧠 Why This Works (The Tech Behind It)
+
+Even if your external SSD is properly formatted (e.g., NTFS), Windows apps like the Microsoft Store or Xbox App may still reject it due to strict permissions checks.
+
+These apps often run in a sandboxed environment and expect install drives to have:
+- Writable access
+- Trusted share-level permissions
+
+When you **share the drive with full control for “Everyone”**, you essentially unlock that missing permission layer. It tricks the system into treating your drive like a trusted, writable install path — even for sandboxed apps.
+
+---
+
+## 🔧 What Microsoft Could Do
+
+To avoid this bug entirely, Microsoft could:
+- Relax install restrictions for non-removable NTFS drives
+- Show better error messages (like “Try sharing this folder to enable access”)
+- Provide a fix via Xbox or Store app updates
+
+---
+
 ## 🙋‍♂️ Who Am I?
 I'm **Arpan**, a 16 y/o student who likes breaking and fixing things. I’m self-taught, curious, and love solving weird tech issues.  
 If anyone at Microsoft (or anywhere cool) is reading this — I’d *love* an internship opportunity someday 👀
