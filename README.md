@@ -4,7 +4,7 @@ The drive won’t appear as a valid install location under Storage settings or i
 
 ---
 
-## 💡 The Fix (Discovered by a 16 y/o student)
+## 💡 The Fix
 This shockingly simple fix solved everything for me — without needing advanced hacks or risky tweaks.
 
 ### ✅ Steps:
@@ -29,7 +29,7 @@ This shockingly simple fix solved everything for me — without needing advanced
 ---
 
 ## 📸 Screenshots:
-See [`/images`](images) folder for step-by-step visuals:
+See [`/images`](images) folder for proof and configurations:
 ![Step 1 – Storage Settings](images/step1-settings.png)
 ![Step 2 – Sharing Settings](images/step2-settings.png)
 ![Step 3 – Success Screen](images/step3-settings.png)
